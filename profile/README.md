@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Jake!
+# 👋 Hey, I'm Hexon!
 
 ## 🚀 About Me
-I'm Jake, a full-stack developer, creative problem solver, and tech enthusiast. I love building experimental tools, bots, and custom software projects for fun and for my companies. Whether it's a Discord bot, a custom CLI tool, a VS Code extension, or a game mod — if it doesn't exist yet, I'm probably already working on it.
+I'm Hexon, a full-stack developer, creative problem solver, and tech enthusiast. I love building experimental tools, bots, and custom software projects for fun and for my companies. Whether it's Websites, a custom CLI tool, a VS Code extension, or a game mod — if it doesn't exist yet, I'm probably already working on it.
 
 ## 🛠️ What I Work On
 - **BotForge Technologies** — AI-powered bots and automation tools.
@@ -14,11 +14,11 @@ I'm Jake, a full-stack developer, creative problem solver, and tech enthusiast. 
 
 ## 📊 GitHub Stats
 
-![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobrdale&show_icons=true&theme=radical)
+![Hexon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobrdale&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- **GitHub:** [@jacobrdale](https://github.com/jacobrdale)
-- **Email:** [jacobstetup@tuta.io](mailto:jacobstetup@tuta.io)
+- **GitHub:** [@Hexon](https://github.com/jacobrdale)
+- **Email:** [me@jacob.is-not.cool](mailto:me@jacob.is-not.cool)
 
 ---
 
