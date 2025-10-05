@@ -14,7 +14,7 @@ I'm Hexon, a full-stack developer, creative problem solver, and tech enthusiast.
 
 ## 📊 GitHub Stats
 
-![Hexon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobrdale&show_icons=true)
+![Hexon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobrdale&show_icons=true&theme=ratical)
 
 ## 📫 Contact Me
 - **GitHub:** [@Hexon](https://github.com/jacobrdale)
